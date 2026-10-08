@@ -1,6 +1,6 @@
 {
   "basicInfo": {
-    "repoOwner": "kubuds",
+    "repoOwner": "granimated",
     "repoName": "sophgo-arduino",
     "downloadUrlFmt": "https://github.com/@REPOOWNER@/@REPONAME@/releases/download/@VERSION@/@ARCHIVENAME@",
     "indexJsonFileName": "package_sg200x_index.json",
@@ -19,6 +19,9 @@
     "boards": [
       {
         "name": "Milkv Duo Dev Board"
+      },
+      {
+        "name": "PINE64 Oz64"
       }
     ],
     "toolsDependencies": [
